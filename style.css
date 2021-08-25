@@ -6,3 +6,10 @@ p{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: burlywood;
 }
+
+.div{
+    border: 1px grey dotted;
+    background-color: khaki;
+    border-radius: 15px;
+    width: 50vw;
+}
